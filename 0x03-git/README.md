@@ -1,1 +1,1 @@
-A readme file
+A readme file showing project details
